@@ -1,6 +1,6 @@
 # Compiler and flags
 
-# C compiler
+# C compiler GCC
 CC = gcc
 
 # C compiler flags: enable all warnings and include debug information
